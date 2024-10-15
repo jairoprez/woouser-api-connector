@@ -1,0 +1,14 @@
+.api-data-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.api-data-list li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.api-data-list li strong {
+    display: inline-block;
+    width: 150px;
+}
