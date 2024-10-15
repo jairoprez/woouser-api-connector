@@ -66,6 +66,17 @@
    - Visit your site as a logged-in user to see the API data based on your preferences.
    - If no elements are set, the widget will remain empty.
 
+## Screenshots
+
+### API Settings Page
+
+![API Settings](https://github.com/user-attachments/assets/c34da7cb-68a4-4249-8993-a6219f258ea3)
+
+
+### API Data Widget
+
+![API Data Widget](https://github.com/user-attachments/assets/dce96650-4f89-4651-983c-1aa90fdb24d1)
+
 ## Frequently Asked Questions
 
 ### Do I need technical knowledge to use this plugin?
